@@ -1,0 +1,13 @@
+You may distribute setlX under the terms of the BSD license,
+which is stated at the end of this document
+This program uses the ANTLR parser generator,
+which is also licensed under the BSD license
+The functions for plotting require jfreechart,which is
+licensed under the LGPL licence
+[The "BSD license"]
+Copyright (c) 2011-2017, Tom Herrmann
+All rights reserved.
+Redistribution and use in source and binary forms, with or
+without modification, are permitted provided that the following
+conditions are met THE POSSIBILITY OF SUCH DAMAGE
+?
